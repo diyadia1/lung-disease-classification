@@ -33,7 +33,7 @@ CNN Feature Extraction
 Disease Classification
         ↓
 Model Evaluation
-
+```
 
 ## Model Architecture
 
