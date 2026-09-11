@@ -17,7 +17,8 @@ The workflow covers image preprocessing, convolutional neural network (CNN) cons
 - Build a CNN-based image classification model
 - Evaluate model performance
 - Explore the application of machine learning in medical image analysis
-
+  
+```md
 ## Workflow
 
 ```text
@@ -32,6 +33,8 @@ CNN Feature Extraction
 Disease Classification
         ↓
 Model Evaluation
+
+
 ## Model Architecture
 
 The project uses a Convolutional Neural Network (CNN) consisting of:
