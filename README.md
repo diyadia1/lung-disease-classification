@@ -32,7 +32,26 @@ CNN Feature Extraction
 Disease Classification
         ↓
 Model Evaluation
-Model Architecture
+## Model Architecture
+
+The project uses a Convolutional Neural Network (CNN) consisting of:
+
+- Convolutional layers
+- Max-pooling layers
+- Dense classification layer
+- Dropout regularization
+- Softmax output layer
+
+## Tech Stack
+
+- Python
+- TensorFlow
+- NumPy
+- Pandas
+- OpenCV
+- Pillow
+- Scikit-learn
+- Matplotlib
 
 The project uses a Convolutional Neural Network (CNN) consisting of:
 
