@@ -1,7 +1,9 @@
 # Lung Disease Classification Using X-Ray Images
 
 A machine learning project focused on classifying lung diseases from chest X-ray images.
+## Project Preview
 
+![Lung Disease Classification preview](lung-disease-preview.png)
 ## Overview
 
 This project explores image-based machine learning for identifying patterns associated with lung diseases in chest X-ray images.
